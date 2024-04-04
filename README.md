@@ -1,0 +1,2 @@
+# bool_blind_injection_script
+用于布尔盲注的数据库扫描脚本
